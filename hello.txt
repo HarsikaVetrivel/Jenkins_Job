@@ -1,1 +1,2 @@
 Hi, this is my first job creation in Jenkins
+This is to show how triggers work
